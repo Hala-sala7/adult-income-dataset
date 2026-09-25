@@ -37,6 +37,7 @@ The project also includes explanatory visualizations designed for a non-technica
 About 62% of people with capital gains earn more than $50K, compared to only about 20% of people without capital gains.
 
 <img width="989" height="490" alt="download (4)" src="https://github.com/user-attachments/assets/a3a12011-7a2d-40a3-af1e-9eeb2774cf6b" />
+
 ## Modeling
 
 ### Part 1: Random Forest baseline
