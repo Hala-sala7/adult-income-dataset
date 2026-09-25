@@ -33,6 +33,9 @@ Key patterns found in the data:
 The project also includes explanatory visualizations designed for a non-technical audience, each focused on one clear trend.
 
 <img width="690" height="490" alt="download (3)" src="https://github.com/user-attachments/assets/3dc203f0-9fdf-44c7-bdba-112c244eb8cb" />
+
+About 62% of people with capital gains earn more than $50K, compared to only about 20% of people without capital gains.
+
 <img width="989" height="490" alt="download (4)" src="https://github.com/user-attachments/assets/a3a12011-7a2d-40a3-af1e-9eeb2774cf6b" />
 ## Modeling
 
